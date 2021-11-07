@@ -6,6 +6,8 @@ I had to update my resume for applying to jobs. After watching a lot of youtube 
 2. Lots of developers were using Latex instead of Word Processors. 
 Most currently available templates either focus on two columns, or are multiple pages long that didn't work well for career fairs or online applications. Inspired from a template by [sb2nov](http://github.com/sb2nov), I created this resume in Latex.
 
+I edited the template in Overleaf. You can find the overleaf template here [FSD_Resume.tex](https://www.overleaf.com/read/mvxtzqfdmqtx)
+
 ### Preview
 
 ![Resume Screenshot](/Nischay_Jain_Resume_Preview.png)
